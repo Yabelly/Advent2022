@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    background-color: aqua;
+}
+
+#textinput {
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    border: 10px solid black;
+}
